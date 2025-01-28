@@ -1,3 +1,5 @@
+Check out my Profile - https://porfolio-rose-delta.vercel.app/
+
 # vCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
