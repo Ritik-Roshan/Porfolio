@@ -39,7 +39,7 @@ git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Linkdein] - https://www.linkedin.com/in/ritik-roshan-3ab242193/
 
 ## License
 
